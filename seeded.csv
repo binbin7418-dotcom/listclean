@@ -1,0 +1,13 @@
+name,email,company
+Alice, Alice@Gmail.com ,Acme
+Alice duplicate,alice@gmail.com,Acme
+Bob,bob.smith@company.co.uk,Beta
+Bad One,not-an-email,Nowhere
+Bad Two,double@@x.com,Nowhere
+Throwaway Fan,fan@mailinator.com,Temp
+Support Desk,support@vendor.com,Vendor
+Typo Tom,tom@gmial.com,Gamma
+Tagged Tina,tina+news@gmail.com,Delta
+Tina Plain,tina@gmail.com,Delta
+Empty Ed,,Void
+Spaced Sue,  sue@outlook.com  ,Zeta
