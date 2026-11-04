@@ -1,0 +1,8 @@
+address,reason
+not-an-email,must contain exactly one @
+double@@example.com,must contain exactly one @
+.alex@example.com,local part has leading/trailing/consecutive dots
+sam@example,domain has no dot/TLD
+bad address@example.com,contains spaces
+theo.fake@mailinator.com,disposable / throwaway domain — signups from these rarely convert and hurt sender reputation
+yara.fake@yopmail.com,disposable / throwaway domain — signups from these rarely convert and hurt sender reputation
